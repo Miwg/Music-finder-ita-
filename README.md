@@ -43,7 +43,7 @@ Il programma è scritto principalmente in italiano. Se vuoi aiutare ad aggiunger
 3. Avvia il programma:
 
 ```bash
-python nome_del_file.py
+python main.py
 ```
 
 ## Contributi
